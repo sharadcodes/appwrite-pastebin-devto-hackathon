@@ -22,6 +22,11 @@ The project is dead simple, it does following:
 - Make sure anonymous login is enabled in settings of appwrite's dashboard.
 - THE END
 
+## Video Demo:
+
+* https://youtu.be/9kno7tn_al4
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9kno7tn_al4/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ## Screenshots:
 
 ![Home](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t4384xtz96kkj9khelux.png)
